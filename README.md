@@ -1,11 +1,11 @@
 =====================
-# profanity_obfuscation
+# Profanity Obfuscation
 =====================
 
 Python package for obfuscate profanities.
 
 
-## Installing
+## Installing
 
     python3 setup.py install
 
