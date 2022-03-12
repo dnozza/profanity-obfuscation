@@ -29,6 +29,11 @@ Or passing text files (such as .tex):
     with open("paper_obfuscated.tex", 'w') as f:
         f.write(obfuscated_text)
 
+You can also use the library to reveal profanities from their obfuscated versions:
+
+    reveal_profanity("m*erda")
+    >> 'mierda'
+
 ## Software Details
 
 * Free software: MIT license

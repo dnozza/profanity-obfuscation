@@ -1,5 +1,4 @@
 import pandas as pd
-import functools
 import re
 
 class Prof:
@@ -29,3 +28,23 @@ class Prof:
             text = re.sub(f'(?<![a-zA-Z]){k}(?![a-z-Z])', v, text)
 
         return text
+
+    def reveal_profanity(self, profanity_obfuscated, lang="any"):
+        """
+        Predicts the emotion for the sentences in input
+        @param profanity: profanity to be revealed
+        @param lang: text's language
+        @return: revealed profanity
+        """
+
+        if lang != "any":
+            assert lang in ['EN', 'FR', 'DE', 'IT', 'ES']
+            prof_table_lang = self.prof_table[self.prof_table['language'] == lang]
+        else:
+            prof_table_lang = self.prof_table
+
+        profanity = prof_table_lang[prof_table_lang['obfuscation'] == profanity_obfuscated]['profanity']
+
+        profanity = profanity.unique()[0]
+
+        return profanity
