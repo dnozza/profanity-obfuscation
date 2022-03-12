@@ -1,6 +1,6 @@
 # Profanity Obfuscation
 
-Python package for obfuscate profanities.
+Python package for obfuscating profanities.
 
 
 ## Installing
