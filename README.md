@@ -31,7 +31,7 @@ Or passing text files (such as .tex):
 
 You can also use the library to reveal profanities from their obfuscated versions:
 
-    reveal_profanity("m*erda")
+    obfuscator.reveal_profanity("m*erda")
     >> 'mierda'
 
 ## Software Details
