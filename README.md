@@ -9,7 +9,7 @@ Python package for obfuscating profanities.
 
 ## How To Use
 
-You can obfuscate text as strings:
+You can obfuscate text as strings, eventually specifying the language:
 
 
     import profanity_obfuscation as prof
@@ -18,6 +18,9 @@ You can obfuscate text as strings:
 
     obfuscator.obfuscate_string("puta mierda")
     >> 'p*ta m*erda'
+
+    obfuscator.obfuscate_string("porca puttana","IT")
+    >> 'p*rca p*ttana'
 
 Or passing text files (such as .tex):
 
