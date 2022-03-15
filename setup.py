@@ -38,7 +38,6 @@ setup(
     packages=find_packages(include=['profanity_obfuscation', 'profanity_obfuscation.*']),
     test_suite='tests',
     tests_require=test_requirements,
-    url='https://github.com/dnozza/profanity_obfuscation',
     version='0.1.0',
     zip_safe=False,
 )
