@@ -24,7 +24,7 @@ You can obfuscate text as strings, eventually specifying the language:
 
 Or passing text files (such as .tex):
 
-    with open("paper.tex, 'r') as file:
+    with open("paper.tex", 'r') as file:
         text = file.read()
 
     obfuscated_text = obfuscator.obfuscate_string(text)
