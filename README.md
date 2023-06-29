@@ -4,6 +4,12 @@
 
 Python package for obfuscating profanities, appearing in ACL 2023.
 
+
+## Tutorial  
+| Google Colab demo | 
+|:-:|
+|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fXJjr_rwqvpp1IdNQ4dxqN4Dp88cxO97?usp=sharing)|
+
 ## Installing
 
     python3 setup.py install
