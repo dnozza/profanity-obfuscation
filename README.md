@@ -1,8 +1,16 @@
+<a href="https://colab.research.google.com/drive/1fXJjr_rwqvpp1IdNQ4dxqN4Dp88cxO97?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+[![arxiv.org](http://img.shields.io/badge/cs.CV-arXiv%3A2207.02696-B31B1B.svg)]([https://arxiv.org/abs/2207.02696](https://arxiv.org/abs/2210.07595))
+
+
 # Profanity Obfuscation
 
 [Debora Nozza](https://deboranozza.com/) · [Dirk Hovy](http://www.dirkhovy.com/)
 
 Python package for obfuscating profanities, appearing in ACL 2023.
+
+See the paper for additional details:
+
+*Nozza, D., Hovy, D. "The State of Profanity Obfuscation in Natural Language Processing Scientific Publications". In Findings of the Association for Computational Linguistics: ACL 2023. Association for Computational Linguistics, 2023.*
 
 
 ## Tutorial  
