@@ -1,6 +1,7 @@
 profanity	obfuscation	pos	definition	language
 ass	a*s	NOUN	https://babelnet.org/synset?id=bn:00005914n&lang=EN	EN
 ass	a*s	ADV	https://babelnet.org/synset?id=bn:27111230r&lang=EN	EN
+assfucked	assf*cked	NOUN	https://babelnet.org/synset?id=bn%3A00003771n&lang=EN	EN
 asshole	a*shole	NOUN	https://babelnet.org/synset?id=bn:00006506n&lang=EN	EN
 bitch	b*tch	NOUN	https://babelnet.org/synset?id=bn:00010740n&lang=EN	EN
 bitch	b*tch	VERB	https://babelnet.org/synset?id=bn:00083316v&lang=EN	EN
@@ -17,6 +18,7 @@ dick	d*ck	NOUN	https://babelnet.org/synset?id=bn:00020263n&lang=EN	EN
 fag	f*g	NOUN	https://babelnet.org/synset?id=bn:00032701n&lang=EN	EN
 faggot	f*ggot	NOUN	https://babelnet.org/synset?id=bn:00032701n&lang=EN	EN
 feminazi	femin*zi	NOUN	https://babelnet.org/synset?id=bn:01895293n&lang=EN	EN
+fudgepacker	f*dgepacker	NOUN	https://www.urbandictionary.com/define.php?term=fudge%20packer	EN
 fuck	f*ck	NOUN	https://babelnet.org/synset?id=bn:00006453n&lang=EN	EN
 fuck	f*ck	VERB	https://babelnet.org/synset?id=bn:00083081v&lang=EN	EN
 fuck	f*ck	ADV	https://babelnet.org/synset?id=bn:13743622r&lang=EN	EN
@@ -46,6 +48,7 @@ slut	sl*t	NOUN	https://babelnet.org/synset?id=bn:00072076n&lang=EN	EN
 slut	sl*t	VERB	https://babelnet.org/synset?id=bn:13734563v&lang=EN	EN
 tit	t*t	NOUN	https://babelnet.org/synset?id=bn:00012047n&lang=EN	EN
 tranny	tr*nny	NOUN	https://babelnet.org/synset?id=bn:15152029n&lang=EN	EN
+transvestite	tr*nsvestite	NOUN	hhttps://babelnet.org/synset?id=bn%3A00023954n&lang=EN	EN
 vagina	v*gina	NOUN	https://babelnet.org/synset?id=bn:14213897n&lang=EN	EN
 wetback	w*tback	NOUN	https://babelnet.org/synset?id=bn:00041548n&lang=EN	EN
 whore	wh*re	NOUN	https://babelnet.org/synset?id=bn:00009205n&lang=EN	EN
@@ -124,8 +127,10 @@ checca	ch*cca	NOUN	https://babelnet.org/synset?id=bn:00032701n&lang=IT	IT
 chiavare	ch*avare	VERB	https://babelnet.org/synset?id=bn:00083081v&lang=IT	IT
 chiavata	ch*avata	NOUN	https://babelnet.org/synset?id=bn:00006453n&lang=IT	IT
 coglione	c*glione	NOUN	https://babelnet.org/synset?id=bn:00012591n&lang=IT	IT
+culo  c*lo  NOUN  https://babelnet.org/synset?id=bn%3A00005913n&lang=IT	IT
 culattone	c*lattone	NOUN	https://babelnet.org/synset?id=bn:00032701n&lang=IT	IT
 donnaccia	d*nnaccia	NOUN	https://babelnet.org/synset?id=bn:00009205n&lang=IT	IT
+femminiello	f*mminiello	NOUN	https://babelnet.org/synset?id=bn%3A02551254n&lang=IT	IT
 fica	f*ca	NOUN	https://babelnet.org/synset?id=bn:00024407n&lang=IT	IT
 figa	f*ga	NOUN	https://babelnet.org/synset?id=bn:00024407n&lang=IT	IT
 finocchio	f*nocchio	NOUN	https://babelnet.org/synset?id=bn:00032701n&lang=IT	IT
@@ -143,6 +148,7 @@ passera	p*ssera	NOUN	https://babelnet.org/synset?id=bn:00024407n&lang=IT	IT
 pisello	p*sello	NOUN	https://babelnet.org/synset?id=bn:00020263n&lang=IT	IT
 porca	p*rca	NOUN	https://babelnet.org/synset?id=bn:00073025n&lang=IT	IT
 puttana	p*ttana	NOUN	https://babelnet.org/synset?id=bn:00072076n&lang=IT	IT
+ricchione	r*cchione	NOUN	https://babelnet.org/synset?id=bn%3A00056757n&lang=IT	IT
 sborra	sb*rra	NOUN	https://babelnet.org/synset?id=bn:00020895n&lang=IT	IT
 sciattona	sc*attona	NOUN	https://babelnet.org/synset?id=bn:00072076n&lang=IT	IT
 scopata	sc*pata	NOUN	https://babelnet.org/synset?id=bn:00006453n&lang=IT	IT
@@ -150,6 +156,9 @@ sgualdrina	sg*aldrina	NOUN	https://babelnet.org/synset?id=bn:00072076n&lang=IT	I
 sorca	s*rca	NOUN	https://babelnet.org/synset?id=bn:00024407n&lang=IT	IT
 squillo	sq*illo	NOUN	https://babelnet.org/synset?id=bn:00009205n&lang=IT	IT
 stronzo	str*nzo	NOUN	https://babelnet.org/synset?id=bn:00005914n&lang=IT	IT
+tranvione	tr*nvione	NOUN	https://babelnet.org/synset?id=bn%3A15152029n&lang=EN	IT
+travione	tr*vione	NOUN	https://babelnet.org/synset?id=bn%3A15152029n&lang=EN	IT
+travioni	tr*vioni	NOUN	https://babelnet.org/synset?id=bn%3A15152029n&lang=EN	IT
 troia	tr*ia	NOUN	https://babelnet.org/synset?id=bn:00072076n&lang=IT	IT
 trombare	tr*mbare	VERB	https://babelnet.org/synset?id=bn:00083081v&lang=IT	IT
 vaffanculo	v*ffanculo	NOUN	https://babelnet.org/synset?id=bn:23891915n&lang=IT	IT
