@@ -6,11 +6,11 @@
 
 [Debora Nozza](https://deboranozza.com/) · [Dirk Hovy](http://www.dirkhovy.com/)
 
-Python package for obfuscating profanities, appearing in ACL 2023.
+Python package for obfuscating profanities, appeared in Findings of ACL 2023.
 
 See the paper for additional details:
 
-*Nozza, D., Hovy, D. "The State of Profanity Obfuscation in Natural Language Processing Scientific Publications". In Findings of the Association for Computational Linguistics: ACL 2023. Association for Computational Linguistics, 2023.*
+*Nozza, D., Hovy, D. "The State of Profanity Obfuscation in Natural Language Processing Scientific Publications". In Findings of the Association for Computational Linguistics: ACL 2023. Association for Computational Linguistics, 2023.* https://aclanthology.org/2023.findings-acl.240/
 
 
 ## Tutorial  
