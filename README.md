@@ -62,14 +62,18 @@ You can also use the library to reveal profanities from their obfuscated version
 
 If you use this tool please cite the following paper:
 
-       @inproceedings{nozza-hovy-2023-prof,
-        title = "The State of Profanity Obfuscation in Natural Language Processing Scientific Publications",
-        author = "Nozza, Debora  and
-          Hovy, Dirk",
-        booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",
-        year = "2023",
-        publisher = "Association for Computational Linguistics",
-        }
+       @inproceedings{nozza-hovy-2023-state,
+    title = "The State of Profanity Obfuscation in Natural Language Processing Scientific Publications",
+    author = "Nozza, Debora  and
+      Hovy, Dirk",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-acl.240",
+    pages = "3897--3909",
+    }
 
 
 ## Credits
