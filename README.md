@@ -16,7 +16,7 @@ See the paper for additional details:
 ## Tutorial  
 | Google Colab demo | 
 |:-:|
-|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fXJjr_rwqvpp1IdNQ4dxqN4Dp88cxO97?usp=sharing)|
+|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HSDCSU2K_QWIxHhn9BiRI5UAQktBMnvo?usp=sharing)|
 
 ## Installing
 
